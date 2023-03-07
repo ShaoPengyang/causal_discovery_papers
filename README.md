@@ -1,7 +1,8 @@
 # causal_discovery_papers
 Continuous optimization-score based methods
 
-|Paper||Introduction|
+|Paper|year|Introduction|
 |--|--|--|
-|Notears||
-|DAG-GNN|
+|Notears||NIPS |
+|DAG-GNN||ICML 2019|
+|Personalized Latent Structure Learning for Recommendation|TPAMI 2023||
