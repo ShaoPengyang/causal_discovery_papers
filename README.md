@@ -2,7 +2,7 @@
 Continuous optimization-score based methods
 ### Questions
 - 我发现杨帅和况老师的文章都直接为正则化项，没有进一步讨论拉格朗日对偶形式，为什么？
-- 
+- 一步优化和迭代式优化的区别在于？
 
 |Paper|year|Introduction|code|
 |--|--|--|--|
