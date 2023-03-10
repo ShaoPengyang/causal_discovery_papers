@@ -1,7 +1,7 @@
 # causal_discovery_papers
 Continuous optimization-score based methods
 ### Questions
-- 我发现杨帅和况老师的文章都直接为正则化项，没有进一步讨论拉格朗日对偶形式，为什么？
+- 我发现况老师的文章都直接为正则化项，没有进一步讨论拉格朗日对偶形式，为什么？这是不对的，根据DAG-GNN代码测试，还是不断增大会好很多。
 - 为什么DAG-GNN的代码与实际VAE的相差很大？
 
 |Paper|year|Introduction|code|
